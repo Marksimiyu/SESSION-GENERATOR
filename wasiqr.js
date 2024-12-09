@@ -59,11 +59,11 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Wasi Tech_*
+*_Session Connected By Destiny MD_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN WASI MD』*
+║ *『AMAZING YOU'VE CHOSEN DESTINY MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
@@ -78,7 +78,7 @@ ______________________________________
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
-	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
+	 await Qr_Code_By_Mark_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:DESTINY_MD_TEXT},{quoted:session})
 
 
 
