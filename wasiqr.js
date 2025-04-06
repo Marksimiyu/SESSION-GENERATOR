@@ -63,8 +63,8 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN DEVSPACE』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ *『HELLO IT'S SO KIND OF YOU TO HAVE CHOSEN DESTINY MD BOT』*
+║ _Now choose the best site to deploy your bot❣️._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
